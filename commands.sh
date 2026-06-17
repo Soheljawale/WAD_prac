@@ -1,6 +1,7 @@
 # Pull Ubuntu image
 docker pull ubuntu
 
+
 # Run container
 docker run -it ubuntu /bin/bash
 
